@@ -1,0 +1,19 @@
+{
+  "name": "node_todo",
+  "version": "1.0.0",
+  "description": "\"brush up node.js skills\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "\"Ritik Kumar\"",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.3"
+  }
+}
